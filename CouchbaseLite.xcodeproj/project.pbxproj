@@ -4859,7 +4859,6 @@
 				TargetAttributes = {
 					275F92731E4D30A4007FD5A2 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = N2Q372V7W2;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
@@ -6415,6 +6414,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 27BE3B451E4D63AF0012B74A /* CBL Swift.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = "";
 			};
 			name = Debug;
 		};
@@ -6422,6 +6422,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 27BE3B451E4D63AF0012B74A /* CBL Swift.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = "";
+				"VALID_ARCHS[sdk=appletvsimulator*]" = "x86_64 arm64";
+				"VALID_ARCHS[sdk=iphonesimulator*]" = "x86_64 arm64";
 			};
 			name = Release;
 		};
@@ -6647,6 +6650,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 27BE3B451E4D63AF0012B74A /* CBL Swift.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = "";
 			};
 			name = Debug_EE;
 		};
@@ -6824,6 +6828,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 27BE3B451E4D63AF0012B74A /* CBL Swift.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = "";
 			};
 			name = Release_EE;
 		};
