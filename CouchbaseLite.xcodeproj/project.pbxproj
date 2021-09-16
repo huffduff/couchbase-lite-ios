@@ -1541,6 +1541,10 @@
 		93FD618C2020757500E7F6A1 /* CBLIndex.h in Headers */ = {isa = PBXBuildFile; fileRef = 93FD61892020757500E7F6A1 /* CBLIndex.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		93FD618D2020757500E7F6A1 /* CBLIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = 93FD618A2020757500E7F6A1 /* CBLIndex.m */; };
 		93FD618E2020757500E7F6A1 /* CBLIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = 93FD618A2020757500E7F6A1 /* CBLIndex.m */; };
+		E2A12DAB26F3A73700D8AE09 /* Query+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A12DAA26F3A73700D8AE09 /* Query+JSON.swift */; };
+		E2A12DAC26F3A73700D8AE09 /* Query+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A12DAA26F3A73700D8AE09 /* Query+JSON.swift */; };
+		E2A12DB926F3A75500D8AE09 /* Query+NQL.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A12DB826F3A75500D8AE09 /* Query+NQL.swift */; };
+		E2A12DBA26F3A75500D8AE09 /* Query+NQL.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A12DB826F3A75500D8AE09 /* Query+NQL.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -2454,6 +2458,8 @@
 		93FD6185202053BE00E7F6A1 /* CBLIndex+Internal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CBLIndex+Internal.h"; sourceTree = "<group>"; };
 		93FD61892020757500E7F6A1 /* CBLIndex.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CBLIndex.h; sourceTree = "<group>"; };
 		93FD618A2020757500E7F6A1 /* CBLIndex.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CBLIndex.m; sourceTree = "<group>"; };
+		E2A12DAA26F3A73700D8AE09 /* Query+JSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Query+JSON.swift"; sourceTree = "<group>"; };
+		E2A12DB826F3A75500D8AE09 /* Query+NQL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Query+NQL.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3362,6 +3368,8 @@
 				938CDF171E807F08002EE790 /* Select.swift */,
 				9380D2721F0DBD79007DD84A /* SelectResult.swift */,
 				938CDF1B1E807F23002EE790 /* Where.swift */,
+				E2A12DAA26F3A73700D8AE09 /* Query+JSON.swift */,
+				E2A12DB826F3A75500D8AE09 /* Query+NQL.swift */,
 			);
 			name = Query;
 			sourceTree = "<group>";
@@ -5369,6 +5377,7 @@
 				9384D84E1FC4163100FE89D8 /* FullTextExpression.swift in Sources */,
 				1A2AB75622BBFDB6000B9325 /* CBLConflictResolver.m in Sources */,
 				9381962E1EC15F4A0032CC51 /* CBLData.mm in Sources */,
+				E2A12DB926F3A75500D8AE09 /* Query+NQL.swift in Sources */,
 				1A416032227D0AD40061A567 /* ConflictResolver.swift in Sources */,
 				934A27C21F31073E003946A7 /* ArrayExpressionIn.swift in Sources */,
 				93EB25C421CDCEC20006FB88 /* CBLQueryParameters.mm in Sources */,
@@ -5387,6 +5396,7 @@
 				93AF51C41E80A6FC00E200F0 /* CBLQueryOrdering.m in Sources */,
 				93DB7FEF1ED8E1C000C4F845 /* CBLReplicatorConfiguration.m in Sources */,
 				93B503631E64B079002C4680 /* CBLCoreBridge.mm in Sources */,
+				E2A12DAB26F3A73700D8AE09 /* Query+JSON.swift in Sources */,
 				934A278F1F30E5A5003946A7 /* CBLAggregateExpression.m in Sources */,
 				938196121EC112280032CC51 /* CBLDocument.mm in Sources */,
 				933F45FA1EC2B47500863ECB /* DataConverter.swift in Sources */,
@@ -5830,6 +5840,7 @@
 				9343F086207D61AB00F19A89 /* CBLMutableDocument.mm in Sources */,
 				9343F087207D61AB00F19A89 /* CBLFunctionExpression.m in Sources */,
 				9343F088207D61AB00F19A89 /* MYLogging.m in Sources */,
+				E2A12DBA26F3A75500D8AE09 /* Query+NQL.swift in Sources */,
 				9343F089207D61AB00F19A89 /* CBLBinaryExpression.m in Sources */,
 				9343F08A207D61AB00F19A89 /* ArrayObject.swift in Sources */,
 				9343F08C207D61AB00F19A89 /* ArrayExpression.swift in Sources */,
@@ -5855,6 +5866,7 @@
 				9343F09C207D61AB00F19A89 /* CBLQueryResultSet.mm in Sources */,
 				9343F09D207D61AB00F19A89 /* CBLQueryBuilder.m in Sources */,
 				932CC55C207D9ED2000B4B78 /* CBLDatabaseEndpoint.m in Sources */,
+				E2A12DAC26F3A73700D8AE09 /* Query+JSON.swift in Sources */,
 				9343F09E207D61AB00F19A89 /* CBLStatus.mm in Sources */,
 				9343F09F207D61AB00F19A89 /* Collation.swift in Sources */,
 				9343F0A0207D61AB00F19A89 /* CBLQueryFullTextExpression.m in Sources */,
