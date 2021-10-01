@@ -4854,7 +4854,7 @@
 			attributes = {
 				CLASSPREFIX = CBL;
 				LastSwiftUpdateCheck = 1010;
-				LastUpgradeCheck = 1020;
+				LastUpgradeCheck = 1300;
 				ORGANIZATIONNAME = Couchbase;
 				TargetAttributes = {
 					275F92731E4D30A4007FD5A2 = {
@@ -6630,6 +6630,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2791EA6620327DCB00BD813C /* Project_Debug_EE.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				TVOS_DEPLOYMENT_TARGET = 12.0;
 			};
 			name = Debug_EE;
 		};
@@ -6809,6 +6811,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2791EA6720327E8B00BD813C /* Project_Release_EE.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				TVOS_DEPLOYMENT_TARGET = 12.0;
 			};
 			name = Release_EE;
 		};
@@ -8180,6 +8184,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9378C5D91E26CC46001BB196 /* Project_Debug.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				TVOS_DEPLOYMENT_TARGET = 12.0;
 			};
 			name = Debug;
 		};
@@ -8187,6 +8193,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9378C5DA1E26CC46001BB196 /* Project_Release.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				TVOS_DEPLOYMENT_TARGET = 12.0;
 			};
 			name = Release;
 		};

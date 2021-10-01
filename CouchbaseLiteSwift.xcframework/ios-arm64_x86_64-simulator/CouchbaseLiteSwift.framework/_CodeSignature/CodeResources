@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/CouchbaseLiteSwift-Swift.h</key>
 		<data>
-		J9gn63jjKvfPTxdLrYU+JpGDkjc=
+		dbSgf+FrMMm2bofqPiupkm4ZlrA=
 		</data>
 		<key>Headers/CouchbaseLiteSwift.h</key>
 		<data>
@@ -18,55 +18,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Kg9+1UNiaPadyksQge0qaZcjWqE=
+		W4PMVFt88vkbC3fimr9rh6ef9bA=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cLZa7EhVKR/aXUEvbSzmlC8HhoQ=
+		/ijBw8KXujTugEp3Tm5oAor2Z6g=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tu+u0JGKYFtILvB3cK9pS+sxUFs=
+		4R4RLy6xBcWKcQ7YJjtm/6vCNOU=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cshnTJegs00By/pNig1GqqEwtrI=
+		8WghBcaznMHA1v0+4kYgrKXIIG4=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		cLZa7EhVKR/aXUEvbSzmlC8HhoQ=
+		/ijBw8KXujTugEp3Tm5oAor2Z6g=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		tu+u0JGKYFtILvB3cK9pS+sxUFs=
+		4R4RLy6xBcWKcQ7YJjtm/6vCNOU=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		cshnTJegs00By/pNig1GqqEwtrI=
+		8WghBcaznMHA1v0+4kYgrKXIIG4=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UpUwzBZf5tkIX+eBR9dgM0RNLOE=
+		XlSGjg0WQKMSXFwIadjKEHOhhT4=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PptviavryMdo3gkraB6JFvgjA/E=
+		kT/3E42yXI/L0Bhi1/9mfUpK6oI=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SSwH8kcIW/51/dxQWzr6Gfz/bAE=
+		sxva/8/bABO8g2jws1pwWYBmFm8=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		UpUwzBZf5tkIX+eBR9dgM0RNLOE=
+		XlSGjg0WQKMSXFwIadjKEHOhhT4=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		PptviavryMdo3gkraB6JFvgjA/E=
+		kT/3E42yXI/L0Bhi1/9mfUpK6oI=
 		</data>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		SSwH8kcIW/51/dxQWzr6Gfz/bAE=
+		sxva/8/bABO8g2jws1pwWYBmFm8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -77,10 +77,6 @@
 	<dict>
 		<key>Headers/CBLErrors.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j6RQ+WQy8Ao2WjApkxb8xzYtL0E=
-			</data>
 			<key>hash2</key>
 			<data>
 			DvqkrHb6TeXY3iaNFXgBQcNm0rrXn7AUhYvNtfEXels=
@@ -88,21 +84,13 @@
 		</dict>
 		<key>Headers/CouchbaseLiteSwift-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			J9gn63jjKvfPTxdLrYU+JpGDkjc=
-			</data>
 			<key>hash2</key>
 			<data>
-			pGlRir2G/uGraSX+UQ0IzdY64wh1MjaKnIEq2Ge2fCA=
+			/22t11Ondk96oaBTabfaOV6nvBztQW5SGz1fdBDUlK4=
 			</data>
 		</dict>
 		<key>Headers/CouchbaseLiteSwift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bDm+vKoGBuDH0PKh7jFzWnaLa+o=
-			</data>
 			<key>hash2</key>
 			<data>
 			vYKYQvHkaO6+ulKqcwZVoKppv16z7NIfX/JbaX6n1OU=
@@ -110,142 +98,90 @@
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cLZa7EhVKR/aXUEvbSzmlC8HhoQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			u7MQ2Qp/pDsgPHIK64YblcQfp1Rawx05XW64dO1JbpA=
+			I3QImjBg8TBG+2kghwdBkgGxtDLUVARifOQ1YYqb6B0=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tu+u0JGKYFtILvB3cK9pS+sxUFs=
-			</data>
 			<key>hash2</key>
 			<data>
-			8HBTnh9Qnh0vsLNY+89kgUtVAs5AE9K3onqGUquPicg=
+			F9J5l+VrdxY4TfQT/5DJ3XHyNVgAEHbu+DIb4LQwCPY=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cshnTJegs00By/pNig1GqqEwtrI=
-			</data>
 			<key>hash2</key>
 			<data>
-			WCDLO7x4TLumzIjfcoFIzhKz9/3NxiMYi5rYCuXYXjw=
+			sOyZl73yfAP74vZflfUcbSuLleeKHI8lo2k1y7MteJ0=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cLZa7EhVKR/aXUEvbSzmlC8HhoQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			u7MQ2Qp/pDsgPHIK64YblcQfp1Rawx05XW64dO1JbpA=
+			I3QImjBg8TBG+2kghwdBkgGxtDLUVARifOQ1YYqb6B0=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tu+u0JGKYFtILvB3cK9pS+sxUFs=
-			</data>
 			<key>hash2</key>
 			<data>
-			8HBTnh9Qnh0vsLNY+89kgUtVAs5AE9K3onqGUquPicg=
+			F9J5l+VrdxY4TfQT/5DJ3XHyNVgAEHbu+DIb4LQwCPY=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/arm64.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cshnTJegs00By/pNig1GqqEwtrI=
-			</data>
 			<key>hash2</key>
 			<data>
-			WCDLO7x4TLumzIjfcoFIzhKz9/3NxiMYi5rYCuXYXjw=
+			sOyZl73yfAP74vZflfUcbSuLleeKHI8lo2k1y7MteJ0=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UpUwzBZf5tkIX+eBR9dgM0RNLOE=
-			</data>
 			<key>hash2</key>
 			<data>
-			9OZD8rzDCGRx7RaZv3XgkzPBi/MzM6EjBWWrdhvALpg=
+			fvNTmiZlLt82k6L6wCha21XIyBbKOoWoclqKnhTBmZY=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PptviavryMdo3gkraB6JFvgjA/E=
-			</data>
 			<key>hash2</key>
 			<data>
-			YUGyqaT/R79dkNxq+Rhhdn3iLUiLl/tiFeg/UtKk2zA=
+			CDOshEkYmOHysTRwMaKVpsWmYojWLvfjPbmqLIZXlKs=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SSwH8kcIW/51/dxQWzr6Gfz/bAE=
-			</data>
 			<key>hash2</key>
 			<data>
-			+2LBStqbR2qG9LZDTHbVRPS5OambqeyfWhBy8qX9eoo=
+			cE7SCOOI7tQwKRBqg/FVAzS2u8333vVd4qg7T3z38MM=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UpUwzBZf5tkIX+eBR9dgM0RNLOE=
-			</data>
 			<key>hash2</key>
 			<data>
-			9OZD8rzDCGRx7RaZv3XgkzPBi/MzM6EjBWWrdhvALpg=
+			fvNTmiZlLt82k6L6wCha21XIyBbKOoWoclqKnhTBmZY=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PptviavryMdo3gkraB6JFvgjA/E=
-			</data>
 			<key>hash2</key>
 			<data>
-			YUGyqaT/R79dkNxq+Rhhdn3iLUiLl/tiFeg/UtKk2zA=
+			CDOshEkYmOHysTRwMaKVpsWmYojWLvfjPbmqLIZXlKs=
 			</data>
 		</dict>
 		<key>Modules/CouchbaseLiteSwift.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SSwH8kcIW/51/dxQWzr6Gfz/bAE=
-			</data>
 			<key>hash2</key>
 			<data>
-			+2LBStqbR2qG9LZDTHbVRPS5OambqeyfWhBy8qX9eoo=
+			cE7SCOOI7tQwKRBqg/FVAzS2u8333vVd4qg7T3z38MM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kqAz890sZtDFCsyOBdRykeQxPuc=
-			</data>
 			<key>hash2</key>
 			<data>
 			+3+JdGNcG7BCKNXkY07Y1KyhIZHgXze3Re57w2rl4d0=

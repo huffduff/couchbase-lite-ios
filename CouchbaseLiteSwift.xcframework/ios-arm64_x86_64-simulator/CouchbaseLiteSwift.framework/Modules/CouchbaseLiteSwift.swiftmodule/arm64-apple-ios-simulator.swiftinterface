@@ -1,9 +1,10 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
-// swift-module-flags: -target arm64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CouchbaseLiteSwift
+// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CouchbaseLiteSwift
 @_exported import CouchbaseLiteSwift
 import Foundation
 import Swift
+import _Concurrency
 public enum LogDomain : Swift.UInt8 {
   case all
   case database
@@ -97,7 +98,7 @@ public struct URLEndpoint {
   final public func limit(_ limit: CouchbaseLiteSwift.ExpressionProtocol, offset: CouchbaseLiteSwift.ExpressionProtocol?) -> CouchbaseLiteSwift.Limit
   @objc deinit
 }
-extension Database {
+extension CouchbaseLiteSwift.Database {
   final public var indexes: Swift.Array<Swift.String> {
     get
   }
@@ -479,7 +480,7 @@ final public class FullTextExpression {
   public static func index(_ name: Swift.String) -> CouchbaseLiteSwift.FullTextExpressionProtocol
   @objc deinit
 }
-extension QueryBuilder {
+extension CouchbaseLiteSwift.QueryBuilder {
   public static func fromNQL(database: CouchbaseLiteSwift.Database, expressions: Swift.String) -> CouchbaseLiteSwift.Query
 }
 public protocol ConflictResolverProtocol {
@@ -587,7 +588,7 @@ public protocol VariableExpressionProtocol : CouchbaseLiteSwift.ExpressionProtoc
   public static func selectDistinct(_ results: [CouchbaseLiteSwift.SelectResultProtocol]) -> CouchbaseLiteSwift.Select
   @objc deinit
 }
-extension Query : Swift.CustomStringConvertible {
+extension CouchbaseLiteSwift.Query : Swift.CustomStringConvertible {
   public var description: Swift.String {
     get
   }
@@ -610,7 +611,7 @@ extension Query : Swift.CustomStringConvertible {
 @_hasMissingDesignatedInitializers final public class Limit : CouchbaseLiteSwift.Query {
   @objc deinit
 }
-extension QueryBuilder {
+extension CouchbaseLiteSwift.QueryBuilder {
   public static func fromJSON(database: CouchbaseLiteSwift.Database, JSONRepresentation data: Foundation.Data) -> CouchbaseLiteSwift.Query
 }
 public protocol MutableDictionaryProtocol : CouchbaseLiteSwift.DictionaryProtocol, CouchbaseLiteSwift.MutableDictionaryFragment {
