@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'CouchbaseLiteSwift'
-  s.version               = '3.0.0-json-2'
+  s.version               = '3.0.0-json-3'
   s.license               = 'Apache License, Version 2.0'
   s.homepage              = 'https://github.com/huffduff/couchbase-lite-ios'
   s.summary               = 'An embedded syncable NoSQL database for iOS and MacOS apps.'
