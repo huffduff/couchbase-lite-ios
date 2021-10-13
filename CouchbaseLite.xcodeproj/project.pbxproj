@@ -1519,6 +1519,8 @@
 		93FD618C2020757500E7F6A1 /* CBLIndex.h in Headers */ = {isa = PBXBuildFile; fileRef = 93FD61892020757500E7F6A1 /* CBLIndex.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		93FD618D2020757500E7F6A1 /* CBLIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = 93FD618A2020757500E7F6A1 /* CBLIndex.m */; };
 		93FD618E2020757500E7F6A1 /* CBLIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = 93FD618A2020757500E7F6A1 /* CBLIndex.m */; };
+		E268F93F27175E2E001B8640 /* Query+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = E268F93E27175E2E001B8640 /* Query+JSON.swift */; };
+		E268F94027175E2E001B8640 /* Query+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = E268F93E27175E2E001B8640 /* Query+JSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -2425,6 +2427,7 @@
 		93FD6185202053BE00E7F6A1 /* CBLIndex+Internal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CBLIndex+Internal.h"; sourceTree = "<group>"; };
 		93FD61892020757500E7F6A1 /* CBLIndex.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CBLIndex.h; sourceTree = "<group>"; };
 		93FD618A2020757500E7F6A1 /* CBLIndex.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CBLIndex.m; sourceTree = "<group>"; };
+		E268F93E27175E2E001B8640 /* Query+JSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Query+JSON.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3334,6 +3337,7 @@
 				938CDF171E807F08002EE790 /* Select.swift */,
 				9380D2721F0DBD79007DD84A /* SelectResult.swift */,
 				938CDF1B1E807F23002EE790 /* Where.swift */,
+				E268F93E27175E2E001B8640 /* Query+JSON.swift */,
 			);
 			name = Query;
 			sourceTree = "<group>";
@@ -5339,6 +5343,7 @@
 				93DB7FEF1ED8E1C000C4F845 /* CBLReplicatorConfiguration.m in Sources */,
 				93B503631E64B079002C4680 /* CBLCoreBridge.mm in Sources */,
 				934A278F1F30E5A5003946A7 /* CBLAggregateExpression.m in Sources */,
+				E268F93F27175E2E001B8640 /* Query+JSON.swift in Sources */,
 				938196121EC112280032CC51 /* CBLDocument.mm in Sources */,
 				933F45FA1EC2B47500863ECB /* DataConverter.swift in Sources */,
 				938196061EC10E890032CC51 /* MutableDictionaryObject.swift in Sources */,
@@ -5829,6 +5834,7 @@
 				9388CC4821C250D1005CA66D /* Log.swift in Sources */,
 				9343F0B0207D61AB00F19A89 /* CollectionUtils.m in Sources */,
 				931713E522C182F500F1B5BF /* CBLQueryFunction+Vector.m in Sources */,
+				E268F94027175E2E001B8640 /* Query+JSON.swift in Sources */,
 				934608EB247F2B4500CF2F27 /* ListenerAuthenticator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
