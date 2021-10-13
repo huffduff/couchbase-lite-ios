@@ -114,10 +114,10 @@ function xcarchive
   echo "Finished archiving ${DESTINATION}."
 }
 
-xcarchive "platform=macOS,arch=x86_64,variant=Mac Catalyst"
+# xcarchive "platform=macOS,arch=x86_64,variant=Mac Catalyst"
 xcarchive "generic/platform=iOS Simulator"
 xcarchive "generic/platform=iOS"
-xcarchive "generic/platform=macOS"
+# xcarchive "generic/platform=macOS"
 
 # create xcframework
 echo "Creating XCFramework...: ${FRAMEWORK_PATH_ARGS}"
